@@ -1,2 +1,3 @@
 # apna
-This is my Day one of Consistancy.
+This is my Day 1 of Consistancy.
+Author - Ranjeet Singh
